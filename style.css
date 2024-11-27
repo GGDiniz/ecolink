@@ -398,7 +398,7 @@ div.p {
 }
 
 div.p p {
-  padding: 2em;
+  padding: 1em;
 }
 
 input:checked~h3 label::before {
@@ -409,7 +409,7 @@ input:checked~h3 label::before {
 }
 
 input:checked~h3~div.p {
-  max-height: 200px;
+  max-height: 350px;
 }
 
 a {
